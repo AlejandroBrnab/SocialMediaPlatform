@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\SocialMediaPlatform\bin\Debug\net6.0\SocialMedia.exe
+C:\Users\aleja\source\repos\SocialMediaPlatform\bin\Debug\net6.0\SocialMedia.deps.json
+C:\Users\aleja\source\repos\SocialMediaPlatform\bin\Debug\net6.0\SocialMedia.runtimeconfig.json
+C:\Users\aleja\source\repos\SocialMediaPlatform\bin\Debug\net6.0\SocialMedia.dll
+C:\Users\aleja\source\repos\SocialMediaPlatform\bin\Debug\net6.0\SocialMedia.pdb
+C:\Users\aleja\source\repos\SocialMediaPlatform\obj\Debug\net6.0\SocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\SocialMediaPlatform\obj\Debug\net6.0\SocialMedia.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\SocialMediaPlatform\obj\Debug\net6.0\SocialMedia.AssemblyInfo.cs
+C:\Users\aleja\source\repos\SocialMediaPlatform\obj\Debug\net6.0\SocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\SocialMediaPlatform\obj\Debug\net6.0\SocialMedia.dll
+C:\Users\aleja\source\repos\SocialMediaPlatform\obj\Debug\net6.0\refint\SocialMedia.dll
+C:\Users\aleja\source\repos\SocialMediaPlatform\obj\Debug\net6.0\SocialMedia.pdb
+C:\Users\aleja\source\repos\SocialMediaPlatform\obj\Debug\net6.0\SocialMedia.genruntimeconfig.cache
+C:\Users\aleja\source\repos\SocialMediaPlatform\obj\Debug\net6.0\ref\SocialMedia.dll
